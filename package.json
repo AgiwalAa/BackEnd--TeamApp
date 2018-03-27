@@ -1,0 +1,25 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "angular2-flash-messages": "^2.0.5",
+    "dotenv": "^5.0.1"
+  },
+  "devDependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "^2.8.4",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aakash Agiwal",
+  "license": "ISC"
+}
